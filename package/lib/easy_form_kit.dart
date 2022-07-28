@@ -2,6 +2,7 @@ library easy_form_kit;
 
 export 'src/easy_form.dart';
 export 'src/easy_data_form.dart';
+export 'src/mask_text_form_field.dart';
 export 'src/text_form_field.dart';
 export 'src/easy_form_field_error.dart';
 export 'src/custom_form_field.dart';
